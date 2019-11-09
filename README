@@ -1,0 +1,2 @@
+to build a janusgraph non-root image
+you need need replace the dockerfile by this one and add healthcheck.py
